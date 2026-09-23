@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Sub-rede & Planejador VLSM",
+  "description": "Calculadora profissional de sub-redes IPv4 e IPv6, divisor de blocos CIDR, planejador VLSM e tabela de referência de rede.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
